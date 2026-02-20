@@ -53,8 +53,12 @@
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
-  </a>
-</p>
+  <img 
+    src="https://cdn.simpleicons.org/canva/00C4CC" 
+    alt="canva" 
+    width="40" 
+    height="40"
+  />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on<br>Building data-driven solutions in social impact, exploring LLMs & RAG systems, and strengthening my skills in Python, SQL, Power BI & Machine Learning.<br><br>👯 I’m looking to collaborate on<br>Social impact analytics projects, AI-powered education tools, gender equality initiatives, and open-source data visualization projects.<br><br>🤝 I’m looking for help with<br>Breaking into full-time Data Analyst roles, improving advanced SQL & dashboard storytelling, and scaling impactful AI use cases.<br><br>🌱 I’m currently learning<br>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), advanced data storytelling, and strategic problem-solving (McKinsey-style frameworks).<br><br>💬 Ask me about<br>Data analytics for social good, building dashboards, women in tech opportunities, hackathons, scholarships (GHCI AIP), or hosting awareness events.<br><br>⚡ Fun fact<br>I’ve delivered 39+ job-readiness sessions for girls, hosted sustainability panels, cracked GHCI scholarships twice, and still get excited turning messy datasets into meaningful impact.
 

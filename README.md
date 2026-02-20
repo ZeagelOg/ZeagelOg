@@ -56,7 +56,5 @@
     <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
   </a>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=ZeagelOg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

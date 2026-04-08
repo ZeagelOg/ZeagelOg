@@ -1,13 +1,11 @@
 # Project Title
 
-## Description
-This is a project that aims to help you learn programming.
+This is a sample project.
 
-## Technologies Used
+## Icons
 
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
-- ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-server-original.svg) SQL
+### Python
+![Python Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)
 
-## Getting Started
-
-Instructions to set up the project.
+### SQL
+![SQL Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)

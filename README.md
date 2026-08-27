@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="left">BI Tools</h3>
+<h3 align="left">BI Tools</h3> 
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>
